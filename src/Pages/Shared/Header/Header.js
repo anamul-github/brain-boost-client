@@ -4,7 +4,7 @@ import { Navbar, Nav } from 'react-bootstrap';
 function Header() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-      <div style={{ width: "100%", display: "flex", justifyContent: "space-between" }}>
+      <div className='px-5' style={{ width: "100%", display: "flex", justifyContent: "space-between" }}>
         <Navbar.Brand href="#home">Brain Boost</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       </div>
