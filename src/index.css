@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #2980b9 url('https://i.ibb.co/z2jL5bs/Clouds-66-7s-1536px.png') repeat 0 0;
+  /* background: #2980b9 url('https://i.ibb.co/z2jL5bs/Clouds-66-7s-1536px.png') repeat 0 0; */
   -webkit-animation: 10s linear 0s normal none infinite animate;
   -moz-animation: 10s linear 0s normal none infinite animate;
   -ms-animation: 10s linear 0s normal none infinite animate;
